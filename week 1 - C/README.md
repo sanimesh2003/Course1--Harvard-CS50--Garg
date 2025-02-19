@@ -1,16 +1,33 @@
-This is the Week 1 of the course CS50 by Harvard.
+# CS50 - Week 1  
 
-This is a very basic understanding of how C works and some basic syntax for the language.
+## Overview  
+Week 1 of Harvard’s **CS50** introduces the **C programming language**, covering fundamental syntax, basic operations, and an understanding of how code executes. This week focuses on:  
 
-A decent amount of what this week covers is more so understanding what code can do and basic arithmetic functions as well.
+- The structure of a C program  
+- Basic syntax and arithmetic operations  
+- Logical operations (`AND`, `OR`, `NOT`)  
+- Introduction to loops  
 
-This is fairly simple in terms of understanding but it's good to know and read through to make sure you are up to date with the syntax and how it works at a very basic level.
+While the concepts are straightforward, reviewing them thoroughly will ensure a solid foundation for future programming topics.  
 
-There are a few things that happen in this week, here is a following list of things you will find in this week's files - 
+---
 
-Hello.c - this is the first code file that has been created, a basic hello world and hello (name).
-Compare.c - this is the second code that has been written that takes a look at basic arithmetic functions.
-Agree.c - the first look at "and" "or" arguments in C
-Cat.c - the first look at using loops
+## Files Included  
 
-A few other things are talked about in the link itself and ive also created notes and then restructured it all with chatgpt to make them more in depth as well, all organized into a pdf to create ease of use and view.
+This directory contains the following C programs, each demonstrating key concepts:  
+
+- **`hello.c`** – A basic introduction to C, including a simple `"Hello, world!"` program and personalized output.  
+- **`compare.c`** – Demonstrates basic arithmetic operations and comparison logic.  
+- **`agree.c`** – First look at logical operators (`AND`, `OR`), conditional statements, and user input handling.  
+- **`cat.c`** – Introduces loops and iteration in C.  
+
+---
+
+## Additional Resources  
+
+Along with the provided code files, this week’s folder includes:  
+
+- **Lecture Notes** – A structured summary of key concepts discussed in the CS50 lecture for Week 1.  
+- **Restructured Notes (PDF)** – A detailed, organized set of notes generated for ease of review and reference.  
+
+For a more in-depth understanding, refer to the official **CS50 Week 1 materials**.  
